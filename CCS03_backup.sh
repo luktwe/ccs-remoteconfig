@@ -30,5 +30,4 @@ sshpass -p $REMOTE_PASSWORD scp $REMOTE_USERNAME@$REMOTE_HOSTNAME:"nvram:/startu
 
 
 
-
-
+# FINE SCRIPT

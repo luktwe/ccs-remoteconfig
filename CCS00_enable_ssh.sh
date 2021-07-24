@@ -96,10 +96,3 @@ sleep 1
 
 
 # FINE SCRIPT
-
-
-
-
-
-
-
